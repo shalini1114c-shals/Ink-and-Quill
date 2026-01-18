@@ -1,0 +1,9 @@
+{
+  "name": "Ink and Quill",
+  "description": "A premium, high-performance e-commerce platform for stationery and art supplies, featuring an Indian focus with ₹ INR pricing, admin dashboard, and AI-powered support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
